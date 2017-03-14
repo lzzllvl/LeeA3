@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeeA3</string>
+    <string name="mesa_web_view">Mesa College</string>
+    <string name="mozilla_development_network">Mozilla Development Network</string>
+    <string name="JQuery">JQuery API Docs</string>
+    <string name="go_button">GO!</string>
+    <string name="direction">Please Choose A Website: </string>
+</resources>
