@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/JQuery"
-        android:id="@+id/textView"
+        android:id="@+id/jq_api_docs"
         android:layout_row="4"
         android:layout_column="0" />
 
