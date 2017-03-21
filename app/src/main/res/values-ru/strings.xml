@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LeeA3</string>
+    <string name="direction">Пожалуйста, выберите сайт: </string>
+    <string name="go_button">Идти!</string>
+    <string name="mesa_web_view"> Колледж Меса</string>
+    <string name="mozilla_development_network"> Сеть разработки Mozilla</string>
+    <string name="JQuery"> Документация по JQuery API</string>
+</resources>

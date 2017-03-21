@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LeeA3</string>
+    <string name="app_name" translatable="false">LeeA3</string>
     <string name="mesa_web_view">Mesa College</string>
     <string name="mozilla_development_network">Mozilla Development Network</string>
     <string name="JQuery">JQuery API Docs</string>
