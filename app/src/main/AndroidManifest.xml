@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -19,9 +20,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".mesaWebActivity" />
-        <activity android:name=".mozWebActivity" />
-        <activity android:name=".jqueryWebActivity"/>
+        <activity
+            android:name=".mesaWebActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".mozWebActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".jqueryWebActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
